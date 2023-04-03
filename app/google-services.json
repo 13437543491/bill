@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590293390470",
+    "project_id": "easyaccountbook-c175e",
+    "storage_bucket": "easyaccountbook-c175e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590293390470:android:ef81e47d4edd16e215ad07",
+        "android_client_info": {
+          "package_name": "com.simple.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590293390470-q05tomf56eln9vnvg2qf2mitn7rmsdc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simple.book",
+            "certificate_hash": "deaa28ee0cca1b89d5079b3ed6a0541038907308"
+          }
+        },
+        {
+          "client_id": "590293390470-fg2up61ib6uud58srd5pf1vk0cfqee19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIwUI4WB6lAdwvJ3SbsuKsARK9-_8ltXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590293390470-fg2up61ib6uud58srd5pf1vk0cfqee19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawerLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/color_main"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/iv_more"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/icon_more" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="@string/app_name"
+            android:textColor="@color/color_000000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/fl_root"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/color_454545" />
+
+    <com.book.base.widget.tabs.AlphaTabsIndicator
+        android:id="@+id/alphaTabs"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:orientation="horizontal">
+
+        <com.book.base.widget.tabs.AlphaTabView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            app:tabIconNormal="@drawable/icon_tab_detail"
+            app:tabIconSelected="@drawable/icon_tab_detail_select"
+            app:tabText="@string/tab_detailed"
+            app:textColorNormal="@color/color_454545"
+            app:textColorSelected="@color/color_3f85fe" />
+
+        <com.book.base.widget.tabs.AlphaTabView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            app:tabIconNormal="@drawable/icon_tab_chart"
+            app:tabIconSelected="@drawable/icon_tab_chart_select"
+            app:tabText="@string/tab_report"
+            app:textColorNormal="@color/color_454545"
+            app:textColorSelected="@color/color_3f85fe" />
+
+    </com.book.base.widget.tabs.AlphaTabsIndicator>
+
+</LinearLayout>

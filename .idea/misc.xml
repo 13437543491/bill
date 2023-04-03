@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/project/account-book/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/app/src/main/res/layout/activity_splash.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/app/src/main/res/layout/dialog_about.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/app/src/main/res/menu/activity_main_drawer.xml" value="0.36614583333333334" />
+        <entry key="..\:/Android/project/account-book/business_chart/src/main/res/layout/fragment_book_chart.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_chart/src/main/res/layout/fragment_book_report.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_chart/src/main/res/layout/recycler_chart_bill_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_chart/src/main/res/layout/recycler_chart_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/drawable/record_selector_tab_bg.xml" value="0.2985" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/drawable/selector_tab_left.xml" value="0.2985" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/drawable/selector_tab_right.xml" value="0.2985" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/activity_add_account.xml" value="0.22" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/activity_add_bill.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/activity_bill_category.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/activity_bill_detail.xml" value="0.24954710144927536" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/activity_category.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/activity_category_setting.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/fragment_add_bill.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/fragment_add_category.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/fragment_category_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/fragment_home.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/layout_type_choice.xml" value="0.24954710144927536" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/layout_type_choise.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/recycler_add_account_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/recycler_bill_empty.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/recycler_bill_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/recycler_bill_title.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/recycler_category_add.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/recycler_category_add_item.xml" value="0.3509963768115942" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/recycler_category_add_title.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/business_home/src/main/res/layout/recycler_category_edit_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/lib_base/src/main/res/layout/no_data_error_layout.xml" value="0.1875" />
+        <entry key="..\:/Android/project/account-book/lib_resources/src/main/res/drawable/icon_add.xml" value="0.2985" />
+        <entry key="..\:/Android/project/account-book/lib_resources/src/main/res/drawable/item_account_no_select.xml" value="0.2985" />
+        <entry key="..\:/Android/project/account-book/lib_resources/src/main/res/drawable/item_account_select.xml" value="0.2985" />
+        <entry key="..\:/Android/project/account-book/lib_resources/src/main/res/drawable/selector_tab_left.xml" value="0.2985" />
+        <entry key="..\:/Android/project/account-book/lib_resources/src/main/res/drawable/selector_tab_right.xml" value="0.2985" />
+        <entry key="..\:/Android/project/account-book/lib_resources/src/main/res/layout/layout_type_choice.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/module_home/src/main/res/drawable/float_button_bg.xml" value="0.2985" />
+        <entry key="..\:/Android/project/account-book/module_home/src/main/res/drawable/item_account_no_select.xml" value="0.2985" />
+        <entry key="..\:/Android/project/account-book/module_home/src/main/res/drawable/item_account_select.xml" value="0.2985" />
+        <entry key="..\:/Android/project/account-book/module_home/src/main/res/drawable/item_add_account_button_bg.xml" value="0.2985" />
+        <entry key="..\:/Android/project/account-book/module_home/src/main/res/drawable/remark_input_bg.xml" value="0.2985" />
+        <entry key="..\:/Android/project/account-book/module_home/src/main/res/layout/activity_add_account.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/module_home/src/main/res/layout/dialog_remark.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/module_home/src/main/res/layout/fragment_add_account.xml" value="0.22" />
+        <entry key="..\:/Android/project/account-book/module_home/src/main/res/layout/fragment_home.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/module_home/src/main/res/layout/recycler_add_account_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/module_home/src/main/res/layout/recycler_bill.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/module_home/src/main/res/layout/recycler_bill_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/module_home/src/main/res/layout/recycler_bill_title.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/project/account-book/module_home/src/main/res/layout/wheel_picker_date.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/app/src/main/res/layout/activity_splash.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/app/src/main/res/layout/dialog_about.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_chart/src/main/res/layout/fragment_book_chart.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_chart/src/main/res/layout/fragment_book_report.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_chart/src/main/res/layout/recycler_chart_bill_item.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_chart/src/main/res/layout/recycler_chart_item.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_home/src/main/res/layout/activity_add_bill.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_home/src/main/res/layout/activity_bill_category.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_home/src/main/res/layout/activity_bill_detail.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_home/src/main/res/layout/dialog_remark.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_home/src/main/res/layout/fragment_add_bill.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_home/src/main/res/layout/fragment_add_category.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_home/src/main/res/layout/fragment_home.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_home/src/main/res/layout/recycler_add_account_item.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_home/src/main/res/layout/recycler_bill_empty.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_home/src/main/res/layout/recycler_bill_item.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_home/src/main/res/layout/recycler_bill_title.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_home/src/main/res/layout/recycler_category_add_item.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_home/src/main/res/layout/recycler_category_add_title.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/business_home/src/main/res/layout/recycler_category_edit_item.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/lib_base/src/main/res/layout/dialog_loading.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/account-book/lib_resources/src/main/res/layout/layout_type_choice.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidProject/movie/app/src/main/res/drawable/icon_tab1_selector.xml" value="0.3305" />
+        <entry key="..\:/AndroidProject/movie/app/src/main/res/layout/activity_main.xml" value="0.27853260869565216" />
+        <entry key="..\:/AndroidProject/movie/app/src/main/res/xml/network_security_config.xml" value="0.33559782608695654" />
+        <entry key="..\:/AndroidProject/movie/lib_base/src/main/res/layout/dialog_loading.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidProject/movie/module_home/src/main/res/drawable/home_video_title_bg.xml" value="0.29" />
+        <entry key="..\:/AndroidProject/movie/module_home/src/main/res/layout/activity_video_detail.xml" value="0.3432971014492754" />
+        <entry key="..\:/AndroidProject/movie/module_home/src/main/res/layout/banner.xml" value="0.3432971014492754" />
+        <entry key="..\:/AndroidProject/movie/module_home/src/main/res/layout/fragment_banner.xml" value="0.3432971014492754" />
+        <entry key="..\:/AndroidProject/movie/module_home/src/main/res/layout/fragment_book_shelf.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidProject/movie/module_home/src/main/res/layout/fragment_home.xml" value="0.3432971014492754" />
+        <entry key="..\:/AndroidProject/movie/module_home/src/main/res/layout/recycler_banner.xml" value="0.3432971014492754" />
+        <entry key="..\:/AndroidProject/movie/module_home/src/main/res/layout/recycler_common_video.xml" value="0.33559782608695654" />
+        <entry key="..\:/AndroidProject/movie/module_home/src/main/res/layout/recycler_home_item.xml" value="0.3432971014492754" />
+        <entry key="..\:/AndroidProject/movie/module_home/src/main/res/layout/recycler_home_video.xml" value="0.3432971014492754" />
+        <entry key="..\:/AndroidProject/movie/module_home/src/main/res/layout/recycler_scroll_type.xml" value="0.33559782608695654" />
+        <entry key="..\:/AndroidProject/movie/module_home/src/main/res/layout/recycler_slide_type.xml" value="0.33559782608695654" />
+        <entry key="..\:/AndroidProject/movie/module_home/src/main/res/layout/recycler_title.xml" value="0.3432971014492754" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable-v24/ic_tabbar_bookshelf_active.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable-v24/ic_tabbar_bookshelf_normal.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable-v24/ic_tabbar_home_actoive.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable-v24/ic_tabbar_library_active.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable-v24/ic_tabbar_library_normal.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable-v24/ic_tabbar_user_active.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable-v24/ic_tabbar_user_normal.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable/$ic_tabbar_home_actoive__0.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable/$ic_tabbar_home_normal__0.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable/ic_tabbar_home_actoive.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable/icon_tab1_selected.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable/icon_tab2_selector.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable/icon_tab3_selector.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable/icon_tab4_selector.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable/icon_tab_library.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/drawable/icon_tab_library_normal.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/layout/activity_splash.xml" value="0.2798913043478261" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/menu/bottom_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProject/novel/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15" />
+        <entry key="..\:/AndroidProject/novel/module_bookshelf/src/main/res/layout/fragment_book_shelf.xml" value="0.4036458333333333" />
+        <entry key="..\:/AndroidProject/novel/module_category/src/main/res/layout/fragment_book_category.xml" value="0.17300724637681159" />
+        <entry key="..\:/AndroidProject/novel/module_featured/src/main/res/layout/fragment_book_featured.xml" value="0.17300724637681159" />
+        <entry key="..\:/AndroidProject/novel/module_mine/src/main/res/layout/fragment_book_mine.xml" value="0.17300724637681159" />
+        <entry key="..\:/Test/movie-master/lib_base/src/main/res/drawable/no_data_error_btn_bg.xml" value="0.4197916666666667" />
+        <entry key="..\:/Test/movie-master/lib_base/src/main/res/layout/no_data_error_layout.xml" value="0.4036458333333333" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/drawable/home_bg.xml" value="0.4197916666666667" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/drawable/home_fragment_bg.xml" value="0.4197916666666667" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/drawable/home_fragment_search_bg.xml" value="0.4197916666666667" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/drawable/home_no_data_error_btn_bg.xml" value="0.4197916666666667" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/drawable/home_top_bg_bottom.xml" value="0.4197916666666667" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/drawable/home_top_bg_middle.xml" value="0.4197916666666667" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/drawable/home_top_bg_top.xml" value="0.4197916666666667" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/drawable/plot_text_bg.xml" value="0.4197916666666667" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/layout/abc.xml" value="0.4036458333333333" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/layout/activity_video_detail.xml" value="0.12335359675785208" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/layout/fragment_featured.xml" value="0.4036458333333333" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/layout/fragment_home.xml" value="0.27445652173913043" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/layout/recycler_banner.xml" value="0.4036458333333333" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/layout/recycler_common_video.xml" value="0.4036458333333333" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/layout/recycler_plot.xml" value="0.4036458333333333" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/layout/recycler_scroll_type.xml" value="0.4036458333333333" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/layout/recycler_slide_type.xml" value="0.4036458333333333" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/layout/recycler_video_detail_top.xml" value="0.2703804347826087" />
+        <entry key="..\:/Test/movie-master/module_home/src/main/res/layout/video_layout.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/lishengyang/.gradle/caches/transforms-2/files-2.1/3666f801645b30386b4e54c9f409250c/jetified-gsyVideoPlayer-java-v8.3.2-release-jitpack/res/layout/video_layout_custom.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/lishengyang/.gradle/caches/transforms-2/files-2.1/3666f801645b30386b4e54c9f409250c/jetified-gsyVideoPlayer-java-v8.3.2-release-jitpack/res/layout/video_layout_standard.xml" value="0.4036458333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

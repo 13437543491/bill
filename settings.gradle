@@ -1,0 +1,11 @@
+rootProject.name = "account-book"
+include ':app'
+include ':lib_base'
+include ':lib_router'
+include ':lib_resources'
+
+include ':business_home'
+include ':business_chart'
+
+include ':module_bill'
+include ':module_analytics'
